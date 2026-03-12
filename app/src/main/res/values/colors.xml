@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="uvento_navy">#0F171E</color>
+    <color name="uvento_card">#1A262F</color>
+    <color name="uvento_yellow">#F7B500</color>
+    <color name="uvento_input_bg">#243441</color>
+    <color name="uvento_text_white">#FFFFFF</color>
+    <color name="uvento_text_slate">#94A3B8</color>
+
+    <color name="primaryColor">@color/uvento_yellow</color>
+    <color name="primaryVariant">#FFD54F</color>
+    <color name="onPrimary">@color/uvento_navy</color>
+
+    <color name="secondaryColor">@color/uvento_yellow</color>
+    <color name="onSecondary">@color/uvento_navy</color>
+
+    <color name="backgroundColor">@color/uvento_navy</color>
+    <color name="surfaceColor">@color/uvento_card</color>
+</resources>

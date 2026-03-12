@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">UVENTO</string>
+    <string name="welcome_subtitle">Your Premium Event Companion</string>
+    <string name="begin_entry">Begin Entry</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="identity_name">Identity Name</string>
+    <string name="secure_email">Secure Email</string>
+    <string name="secure_mobile">Secure Mobile</string>
+    <string name="secure_my_pass">SECURE MY PASS</string>
+    <string name="verified">VERIFIED.</string>
+    <string name="pass_info">PASS INFORMATION</string>
+    <string name="return_to_hub">RETURN TO HUB</string>
+    <string name="main_description"></string>
+
+    <string name="confirm_registration">Confirm Pass?</string>
+    <string name="confirm_msg">By confirming, your identity will be bound to the #UVN blockchain for entry access.</string>
+    <string name="yes_authorize">YES, AUTHORIZE</string>
+    <string name="wait_go_back">WAIT, GO BACK</string>
+
+    <string name="select_event_type">Select Pass Type</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="terms_and_conditions">I accept the Terms and Conditions</string>
+    <string name="registration_success_msg">Your event registration has been submitted successfully.</string>
+
+    <string-array name="event_types">
+        <item>Select Pass Type</item>
+        <item>Seminar</item>
+        <item>Workshop</item>
+        <item>Conference</item>
+        <item>Webinar</item>
+        <item>Cultural Event</item>
+    </string-array>
+</resources>
